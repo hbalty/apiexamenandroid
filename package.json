@@ -35,7 +35,7 @@
     "jsonwebtoken": "^8.4.0",
     "mongodb-stitch-browser-sdk": "^4.0.14",
     "mongodb-stitch-server-sdk": "^4.0.14",
-    "mongoose": "^5.3.13",
+    "mongoose": "^5.7.5",
     "mongoose-trigger": "^1.0.1",
     "nodeenv": "^1.0.0",
     "passport": "^0.4.0",
